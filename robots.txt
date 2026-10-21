@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hayahlab.com/sitemap.xml
